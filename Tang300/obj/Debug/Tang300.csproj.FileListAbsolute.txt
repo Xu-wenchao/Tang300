@@ -7,3 +7,12 @@ D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.csproj.GenerateResource.Cache
 D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.exe
 D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.pdb
 D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.Form1.resources
+D:\CSCode\Git\Tang300\Tang300\bin\Debug\Tang300.exe.config
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.exe
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.pdb
+D:\CSCode\Git\Tang300\Tang300\bin\Debug\Tang300.exe
+D:\CSCode\Git\Tang300\Tang300\bin\Debug\Tang300.pdb
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.csprojResolveAssemblyReference.cache
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.Form1.resources
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.Properties.Resources.resources
+D:\CSCode\Git\Tang300\Tang300\obj\Debug\Tang300.csproj.GenerateResource.Cache
