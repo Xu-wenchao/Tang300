@@ -1,0 +1,9 @@
+D:\CSCode\Tang300\Tang300\bin\Debug\Tang300.exe.config
+D:\CSCode\Tang300\Tang300\bin\Debug\Tang300.exe
+D:\CSCode\Tang300\Tang300\bin\Debug\Tang300.pdb
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.csprojResolveAssemblyReference.cache
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.Properties.Resources.resources
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.csproj.GenerateResource.Cache
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.exe
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.pdb
+D:\CSCode\Tang300\Tang300\obj\Debug\Tang300.Form1.resources
